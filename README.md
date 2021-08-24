@@ -28,7 +28,7 @@
 Complete guide on deploying @EzilaXBot's clone on Heroku.
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamEzilaX/EzilaX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SDBOTsInifinity/EzilaX-1.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
